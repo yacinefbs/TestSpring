@@ -8,6 +8,7 @@
 <link rel="stylesheet" type="text/css" href="<%=request.getContextPath() %>/resources/css/style1.css" /> 
 </head>
 <body>
+	<h1>Hello Yacine</h1>
 	<div>
 	<f:form modelAttribute="banqueForm" method="post" action="chargerCompte">
 		<table>
